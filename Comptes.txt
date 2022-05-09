@@ -1,0 +1,2 @@
+Compte: admin: pseudo: Elliot mdp: elliot
+	user: pseudo: Gabriel mdp: gab

@@ -1,0 +1,91 @@
+@import url('https://fonts.googleapis.com/css2?family=Cinzel+Decorative&display=swap');
+:root{
+    --bleu: #1D183D;
+    --beige: #F7D1AB;
+}
+body{
+    background-color: var(--bleu);
+}
+.masthead{
+    margin-bottom: 5rem !important;
+}
+.nav-link{
+    font-size: 1.5rem;
+    margin: 0 5rem;
+    color: var(--beige) !important;
+    font-family: 'Cinzel Decorative', cursive;
+}
+
+
+
+main{
+    margin: 0 5rem !important;
+}
+.col{
+    background-color: var(--beige);
+    margin: 0 auto 2rem 1rem!important  ;
+    box-shadow: 10px 5px 5px #BF0632;
+}
+label{
+    color: var(--beige);
+}
+.btn{
+    background-color: var(--beige) !important;
+    color: var(--bleu) !important;
+}
+.art{
+    background-color: var(--bleu) !important;
+    color: var(--beige) !important;
+}
+.main-a{
+    color: var(--beige);
+}
+img{
+    width: 225px !important;
+    height: 300px !important;
+}
+p{
+    color: var(--beige);
+}
+.article{
+    color: black;
+}
+h3{
+    font-family: 'Cinzel Decorative', cursive;
+    text-align: center;
+    margin-top: 2rem;
+}
+
+
+
+#formCreaArt{
+    background-color: var(--beige) !important;
+    width: 55vw;
+    margin: auto;
+    padding: 3rem;
+    text-align: left;
+}
+.labelCreaArt{
+    color: var(--bleu) !important;
+}
+#contenu{
+    height: 15vh;
+    width: 48vw;
+}
+#titreCreaArt{
+    width: 45vw;
+}
+#buttonCreaArt{
+    background-color: var(--bleu) !important;
+    color: var(--beige) !important;
+    border: none;
+    padding: .5rem;
+}
+
+
+footer{
+    margin-top: 4rem;
+}
+#pFooter{
+    font-family: 'Cinzel Decorative', cursive;
+}
